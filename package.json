@@ -1,8 +1,8 @@
 {
   "name": "videojs-quality-picker",
   "author": {
-    "name": "StreamRoot",
-    "email": "contact@streamroot.io"
+    "name": "StreamRoot, Sebastian Speitel",
+    "email": "contact@streamroot.io, sebastian.speitel@outlook.de"
   },
   "publishConfig":{
     "registry":"https://registry.npmjs.org/"
